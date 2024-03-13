@@ -11,11 +11,11 @@ module.exports = {
       },
       colors: {
         primary: {
-          DEFAULT: '#1e429f',
+          DEFAULT: '#124b0b',
           dark: '#233876',
         },
         secondary: {
-          DEFAULT: "#e02424",
+          DEFAULT: "#cfc296",
         }
       },
       fontFamily: {

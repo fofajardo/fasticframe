@@ -13,26 +13,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Avatar Framer
+title: ATI-NTC Residence Hall Open House 2024
 description: >- # this means to ignore newlines"
-  A simple tool to create framed profile pictures for social media in support of a cause.
-  Dynamically generate a static site based off of the number of frame images provided.
+  Frame.
 
 # Copy
 # Fill in your copy for the title and steps here
 # 
-title-text: "Show you’re on #TeamBartlet by helping get out the vote on social media!"
+title-text: "ATI-NTC Residence Hall Open House 2024"
 step-1: "Upload your picture or another square image below."
 step-2: "Use the photo tools to scale, rotate, and move your image over the preview."
 step-3: "Select your frame."
 step-4: "Download your new profile image!"
 step-5: "Post on social media using the hashtag #TeamBartlet."
-footer-text: "&copy; 2020 Campaign Works, Inc. All rights reserved."
-
-# Header Nav Link
-#
-nav-link: "http://google.com"
-nav-link-text: "Donate"
+footer-text: "&copy; 2024 Francis Dominic Fajardo. All rights reserved."
+footer-link: https://fofajardo.github.io/
 
 # Buttons and upload form
 # 
@@ -44,30 +39,33 @@ download-button-text: "Download profile picture"
 logo: "logo.png"
 favicon: "favicon.ico"
 
-# Footer links
-# 
-footer-links:
-  - text: "Awesome page 1"
-    link: "http://google.com"
-
-  - text: "Other page 2"
-    link: "http://google.com"
-
-  - text: "Things!"
-    link: "http://google.com"
-
 # Open Graph and Twitter Cards
 #
-og-title: Create your own avatar generating website
-og-description: Create your own avatar generating website
-og-url: https://andrewquinn.ca/avatar-framer
+og-title: ATI-NTC Residence Hall Open House 2024
+og-description: ATI-NTC Residence Hall Open House 2024
+og-url: https://framenatin.pages.dev/openhouse2024/
 og-image: "og-image.png"
 og-image-width: 1280
 og-image-height: 640
 twitter-card: summary_large_image
-twitter-description: Create your own avatar generating website
+twitter-description: "Create your framed profile picture for the ATI-NTC Residence Hall Open House 2024"
 twitter-image: "og-image.png"
-twitter-handle: "@AndrewQuinn2"
+twitter-handle: ""
+
+caption-lines:
+- Sinong pipiliin mo, DoTA o Ako? 🥺 Ba't hindi both, eh nasa ATI naman ako! 😋<br>
+- Na-miss mo 🫵😳 na ba ang 🔥COMSHOP VIBES🔥 ?? 🙈🤔 Tara na at sumama sa trip down memory lane at i-experience muli ang asim 🤢, ang soundtrip😎, ang foodtrip😛, at ang kulitan🤭 sa comshop!<br>
+- Ako nga pala si (Insert Name Here) at inaanyayahan kayong pumunta na dito lamang sa ATI-NTC Residence Hall sa March 14, 2024 para sa aming Open House na may temang COMPUTER SHOP! May palaro, may pakain, tugtugan, at kung anu-ano pa!<br>
+- Register na kayo sa CS 1.6 tournament namin! https://bit.ly/ATI_OH24CS <br>
+- Trip mo 'yung frame? https://framenatin.pages.dev/openhouse2024/ <br>
+- Ano pang hinihintay mo? 🫵🤨 Kita-kits! 🥰😋🔥❤️ <br>
+- >-
+    #IbaAngSayaSaATI <br>
+    #ATIOpenHouse <br>
+    #ATInTo <br>
+    #NgitingATI <br>
+    #MabuhayATI <br>
+    #ATILagingMayWiFi <br>
 
 # Exclude from processing.
 # The following items will not be processed, by default.
